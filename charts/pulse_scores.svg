@@ -1,49 +1,49 @@
 <svg width="700" height="570" xmlns="http://www.w3.org/2000/svg">
 <style>text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }</style>
 <text x="350" y="24" text-anchor="middle" font-size="14" font-weight="bold" fill="#24292f">Pulse Score — Top Frameworks</text>
-<text x="152" y="59" text-anchor="end" font-size="12" fill="#57606a">BrowserUse</text>
+<text x="152" y="59" text-anchor="end" font-size="12" fill="#57606a">Mastra</text>
 <rect x="160" y="40" width="480.0" height="28" rx="4" fill="#4caf50" opacity="0.85"/>
-<text x="646.0" y="59" font-size="11" fill="#24292f">64.9</text>
-<text x="152" y="93" text-anchor="end" font-size="12" fill="#57606a">LangGraph</text>
-<rect x="160" y="74" width="477.0" height="28" rx="4" fill="#4daf50" opacity="0.85"/>
-<text x="643.0416024653313" y="93" font-size="11" fill="#24292f">64.5</text>
-<text x="152" y="127" text-anchor="end" font-size="12" fill="#57606a">Mastra</text>
-<rect x="160" y="108" width="476.3" height="28" rx="4" fill="#4daf50" opacity="0.85"/>
-<text x="642.3020030816641" y="127" font-size="11" fill="#24292f">64.4</text>
-<text x="152" y="161" text-anchor="end" font-size="12" fill="#57606a">Google ADK</text>
-<rect x="160" y="142" width="472.6" height="28" rx="4" fill="#4eaf51" opacity="0.85"/>
-<text x="638.6040061633281" y="161" font-size="11" fill="#24292f">63.9</text>
-<text x="152" y="195" text-anchor="end" font-size="12" fill="#57606a">LlamaIndex</text>
-<rect x="160" y="176" width="366.8" height="28" rx="4" fill="#76b46c" opacity="0.85"/>
-<text x="532.8412942989214" y="195" font-size="11" fill="#24292f">49.6</text>
-<text x="152" y="229" text-anchor="end" font-size="12" fill="#57606a">Semantic Kernel</text>
-<rect x="160" y="210" width="353.5" height="28" rx="4" fill="#7bb56f" opacity="0.85"/>
-<text x="519.5285053929122" y="229" font-size="11" fill="#24292f">47.8</text>
-<text x="152" y="263" text-anchor="end" font-size="12" fill="#57606a">Agno</text>
-<rect x="160" y="244" width="339.5" height="28" rx="4" fill="#80b673" opacity="0.85"/>
-<text x="505.4761171032357" y="263" font-size="11" fill="#24292f">45.9</text>
+<text x="646.0" y="59" font-size="11" fill="#24292f">64.7</text>
+<text x="152" y="93" text-anchor="end" font-size="12" fill="#57606a">Claude Agent SDK</text>
+<rect x="160" y="74" width="475.5" height="28" rx="4" fill="#4daf51" opacity="0.85"/>
+<text x="641.548686244204" y="93" font-size="11" fill="#24292f">64.1</text>
+<text x="152" y="127" text-anchor="end" font-size="12" fill="#57606a">LlamaIndex</text>
+<rect x="160" y="108" width="370.2" height="28" rx="4" fill="#74b46b" opacity="0.85"/>
+<text x="536.2009273570325" y="127" font-size="11" fill="#24292f">49.9</text>
+<text x="152" y="161" text-anchor="end" font-size="12" fill="#57606a">Semantic Kernel</text>
+<rect x="160" y="142" width="354.6" height="28" rx="4" fill="#7ab56f" opacity="0.85"/>
+<text x="520.6213292117465" y="161" font-size="11" fill="#24292f">47.8</text>
+<text x="152" y="195" text-anchor="end" font-size="12" fill="#57606a">BrowserUse</text>
+<rect x="160" y="176" width="343.5" height="28" rx="4" fill="#7eb672" opacity="0.85"/>
+<text x="509.49304482225654" y="195" font-size="11" fill="#24292f">46.3</text>
+<text x="152" y="229" text-anchor="end" font-size="12" fill="#57606a">Agno</text>
+<rect x="160" y="210" width="342.0" height="28" rx="4" fill="#7fb672" opacity="0.85"/>
+<text x="508.0092735703246" y="229" font-size="11" fill="#24292f">46.1</text>
+<text x="152" y="263" text-anchor="end" font-size="12" fill="#57606a">CrewAI</text>
+<rect x="160" y="244" width="340.5" height="28" rx="4" fill="#80b672" opacity="0.85"/>
+<text x="506.52550231839257" y="263" font-size="11" fill="#24292f">45.9</text>
 <text x="152" y="297" text-anchor="end" font-size="12" fill="#57606a">Haystack</text>
-<rect x="160" y="278" width="338.0" height="28" rx="4" fill="#80b673" opacity="0.85"/>
-<text x="503.9969183359014" y="297" font-size="11" fill="#24292f">45.7</text>
-<text x="152" y="331" text-anchor="end" font-size="12" fill="#57606a">CrewAI</text>
-<rect x="160" y="312" width="335.8" height="28" rx="4" fill="#81b674" opacity="0.85"/>
-<text x="501.7781201848998" y="331" font-size="11" fill="#24292f">45.4</text>
-<text x="152" y="365" text-anchor="end" font-size="12" fill="#57606a">OpenAI Agents SDK</text>
-<rect x="160" y="346" width="335.0" height="28" rx="4" fill="#82b674" opacity="0.85"/>
-<text x="501.0385208012326" y="365" font-size="11" fill="#24292f">45.3</text>
+<rect x="160" y="278" width="339.8" height="28" rx="4" fill="#80b673" opacity="0.85"/>
+<text x="505.78361669242656" y="297" font-size="11" fill="#24292f">45.8</text>
+<text x="152" y="331" text-anchor="end" font-size="12" fill="#57606a">OpenAI Agents SDK</text>
+<rect x="160" y="312" width="338.3" height="28" rx="4" fill="#80b673" opacity="0.85"/>
+<text x="504.2998454404946" y="331" font-size="11" fill="#24292f">45.6</text>
+<text x="152" y="365" text-anchor="end" font-size="12" fill="#57606a">LangGraph</text>
+<rect x="160" y="346" width="336.8" height="28" rx="4" fill="#81b673" opacity="0.85"/>
+<text x="502.8160741885626" y="365" font-size="11" fill="#24292f">45.4</text>
 <text x="152" y="399" text-anchor="end" font-size="12" fill="#57606a">AG2</text>
-<rect x="160" y="380" width="334.3" height="28" rx="4" fill="#82b674" opacity="0.85"/>
-<text x="500.29892141756545" y="399" font-size="11" fill="#24292f">45.2</text>
+<rect x="160" y="380" width="336.1" height="28" rx="4" fill="#81b673" opacity="0.85"/>
+<text x="502.07418856259653" y="399" font-size="11" fill="#24292f">45.3</text>
 <text x="152" y="433" text-anchor="end" font-size="12" fill="#57606a">PydanticAI</text>
-<rect x="160" y="414" width="329.9" height="28" rx="4" fill="#83b675" opacity="0.85"/>
-<text x="495.8613251155624" y="433" font-size="11" fill="#24292f">44.6</text>
-<text x="152" y="467" text-anchor="end" font-size="12" fill="#57606a">Claude Agent SDK</text>
-<rect x="160" y="448" width="315.1" height="28" rx="4" fill="#89b779" opacity="0.85"/>
-<text x="481.0693374422188" y="467" font-size="11" fill="#24292f">42.6</text>
+<rect x="160" y="414" width="333.8" height="28" rx="4" fill="#82b674" opacity="0.85"/>
+<text x="499.8485316846986" y="433" font-size="11" fill="#24292f">45.0</text>
+<text x="152" y="467" text-anchor="end" font-size="12" fill="#57606a">Google ADK</text>
+<rect x="160" y="448" width="327.2" height="28" rx="4" fill="#84b676" opacity="0.85"/>
+<text x="493.17156105100463" y="467" font-size="11" fill="#24292f">44.1</text>
 <text x="152" y="501" text-anchor="end" font-size="12" fill="#57606a">Letta</text>
-<rect x="160" y="482" width="304.7" height="28" rx="4" fill="#8db87b" opacity="0.85"/>
-<text x="470.7149460708782" y="501" font-size="11" fill="#24292f">41.2</text>
+<rect x="160" y="482" width="306.4" height="28" rx="4" fill="#8cb87b" opacity="0.85"/>
+<text x="472.3987635239567" y="501" font-size="11" fill="#24292f">41.3</text>
 <text x="152" y="535" text-anchor="end" font-size="12" fill="#57606a">Composio</text>
-<rect x="160" y="516" width="301.8" height="28" rx="4" fill="#8eb87c" opacity="0.85"/>
-<text x="467.7565485362095" y="535" font-size="11" fill="#24292f">40.8</text>
+<rect x="160" y="516" width="302.7" height="28" rx="4" fill="#8eb87c" opacity="0.85"/>
+<text x="468.6893353941267" y="535" font-size="11" fill="#24292f">40.8</text>
 </svg>
