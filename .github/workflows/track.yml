@@ -1,0 +1,41 @@
+name: Track AI Agent Frameworks
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tracker
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tracker.py
+
+      - name: Generate dashboard
+        run: python dashboard.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "AI Pulse Bot"
+          git config user.email "bot@ai-pulse-tracker.github.io"
+          git add data/ charts/ README.md
+          git diff --staged --quiet || git commit -m "📊 Daily pulse update — $(date -u +'%Y-%m-%d')"
+          git push

@@ -1,0 +1,119 @@
+# AI Agent Framework Pulse Tracker - Configuration
+# Add or remove frameworks to track here
+
+frameworks:
+  - name: LangGraph
+    repo: langchain-ai/langgraph
+    category: orchestration
+    description: Framework for building stateful, multi-actor applications with LLMs
+
+  - name: CrewAI
+    repo: crewAIInc/crewAI
+    category: multi-agent
+    description: Framework for orchestrating role-playing AI agents
+
+  - name: AutoGen
+    repo: microsoft/autogen
+    category: multi-agent
+    description: Microsoft's framework for multi-agent conversation (maintenance mode)
+
+  - name: LlamaIndex
+    repo: run-llama/llama_index
+    category: data-agent
+    description: Data framework for LLM-based agents and RAG applications
+
+  - name: Haystack
+    repo: deepset-ai/haystack
+    category: pipeline
+    description: End-to-end NLP/LLM framework for building pipelines and agents
+
+  - name: PydanticAI
+    repo: pydantic/pydantic-ai
+    category: structured
+    description: Agent framework built on Pydantic for type-safe AI applications
+
+  - name: Agno
+    repo: agno-agi/agno
+    category: multi-agent
+    description: Lightweight framework for building multi-modal agents (formerly Phidata)
+
+  - name: Google ADK
+    repo: google/adk-python
+    category: orchestration
+    description: Google's Agent Development Kit for building AI agents
+
+  - name: Mastra
+    repo: mastra-ai/mastra
+    category: typescript
+    description: TypeScript-first AI agent framework for web developers
+
+  - name: OpenAI Agents SDK
+    repo: openai/openai-agents-python
+    category: orchestration
+    description: OpenAI's lightweight SDK for building multi-agent workflows
+
+  - name: Smolagents
+    repo: huggingface/smolagents
+    category: lightweight
+    description: HuggingFace's minimalist agent framework
+
+  - name: Claude Agent SDK
+    repo: anthropics/claude-code
+    category: orchestration
+    description: Anthropic's SDK for building agentic applications
+
+  - name: Semantic Kernel
+    repo: microsoft/semantic-kernel
+    category: enterprise
+    description: Microsoft's SDK for integrating AI into enterprise apps
+
+  - name: DSPy
+    repo: stanfordnlp/dspy
+    category: optimization
+    description: Framework for programming with foundation models via signatures
+
+  - name: BrowserUse
+    repo: browser-use/browser-use
+    category: web-agent
+    description: AI agent framework for browser automation
+
+  - name: Composio
+    repo: ComposioHQ/composio
+    category: tooling
+    description: Integration platform providing tools for AI agents
+
+  - name: FastAgency
+    repo: airtai/fastagency
+    category: deployment
+    description: Framework for rapidly deploying multi-agent AI workflows
+
+  - name: Letta
+    repo: letta-ai/letta
+    category: memory
+    description: Framework for building stateful agents with long-term memory
+
+  - name: Swarm
+    repo: openai/swarm
+    category: experimental
+    description: OpenAI's experimental multi-agent orchestration framework
+
+  - name: AG2
+    repo: ag2ai/ag2
+    category: multi-agent
+    description: Community fork continuing AutoGen's multi-agent vision
+
+# Scoring weights for the Pulse Score
+scoring:
+  star_velocity_weight: 0.25      # How fast stars are growing (7d & 30d)
+  release_freshness_weight: 0.20  # How recently a release was published
+  issue_health_weight: 0.15       # Ratio of closed to open issues
+  commit_activity_weight: 0.20    # Recent commit frequency
+  community_weight: 0.10          # Contributor count and growth
+  fork_ratio_weight: 0.10         # Fork-to-star ratio (engagement signal)
+
+# Dashboard settings
+dashboard:
+  chart_width: 800
+  chart_height: 400
+  top_n_charts: 10
+  history_days: 90
