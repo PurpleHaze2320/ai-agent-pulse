@@ -255,6 +255,11 @@ def generate_readme(data: dict, history: dict, config: dict) -> str:
     lines = [
         "# 🔬 AI Agent Framework Pulse Tracker",
         "",
+        "[![Daily Update](https://github.com/PurpleHaze2320/ai-agent-pulse/actions/workflows/track.yml/badge.svg)](https://github.com/PurpleHaze2320/ai-agent-pulse/actions/workflows/track.yml)",
+        f"[![Frameworks Tracked](https://img.shields.io/badge/frameworks-{len(scored)}-blue)](https://github.com/PurpleHaze2320/ai-agent-pulse)",
+        "[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)",
+        "[![GitHub stars](https://img.shields.io/github/stars/PurpleHaze2320/ai-agent-pulse?style=social)](https://github.com/PurpleHaze2320/ai-agent-pulse/stargazers)",
+        "",
         "> Automated daily tracking of the AI agent framework ecosystem's health, momentum, and trends.",
         f"> Last updated: **{now}** | Tracking **{len(scored)}** frameworks",
         "",
