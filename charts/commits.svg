@@ -3,7 +3,7 @@
 <text x="350" y="24" text-anchor="middle" font-size="14" font-weight="bold" fill="#24292f">Commits (Last 4 Weeks)</text>
 <text x="152" y="59" text-anchor="end" font-size="12" fill="#57606a">Mastra</text>
 <rect x="160" y="40" width="480.0" height="28" rx="4" fill="#4caf50" opacity="0.85"/>
-<text x="646.0" y="59" font-size="11" fill="#24292f">654.0</text>
+<text x="646.0" y="59" font-size="11" fill="#24292f">695.0</text>
 <text x="152" y="93" text-anchor="end" font-size="12" fill="#57606a">BrowserUse</text>
 <rect x="160" y="74" width="2.0" height="28" rx="4" fill="#ffc8c8" opacity="0.85"/>
 <text x="168" y="93" font-size="11" fill="#24292f">0.0</text>
@@ -22,22 +22,22 @@
 <text x="152" y="263" text-anchor="end" font-size="12" fill="#57606a">Agno</text>
 <rect x="160" y="244" width="2.0" height="28" rx="4" fill="#ffc8c8" opacity="0.85"/>
 <text x="168" y="263" font-size="11" fill="#24292f">0.0</text>
-<text x="152" y="297" text-anchor="end" font-size="12" fill="#57606a">Semantic Kernel</text>
+<text x="152" y="297" text-anchor="end" font-size="12" fill="#57606a">OpenAI Agents SDK</text>
 <rect x="160" y="278" width="2.0" height="28" rx="4" fill="#ffc8c8" opacity="0.85"/>
 <text x="168" y="297" font-size="11" fill="#24292f">0.0</text>
-<text x="152" y="331" text-anchor="end" font-size="12" fill="#57606a">OpenAI Agents SDK</text>
+<text x="152" y="331" text-anchor="end" font-size="12" fill="#57606a">PydanticAI</text>
 <rect x="160" y="312" width="2.0" height="28" rx="4" fill="#ffc8c8" opacity="0.85"/>
 <text x="168" y="331" font-size="11" fill="#24292f">0.0</text>
-<text x="152" y="365" text-anchor="end" font-size="12" fill="#57606a">PydanticAI</text>
+<text x="152" y="365" text-anchor="end" font-size="12" fill="#57606a">Semantic Kernel</text>
 <rect x="160" y="346" width="2.0" height="28" rx="4" fill="#ffc8c8" opacity="0.85"/>
 <text x="168" y="365" font-size="11" fill="#24292f">0.0</text>
 <text x="152" y="399" text-anchor="end" font-size="12" fill="#57606a">Haystack</text>
 <rect x="160" y="380" width="2.0" height="28" rx="4" fill="#ffc8c8" opacity="0.85"/>
 <text x="168" y="399" font-size="11" fill="#24292f">0.0</text>
-<text x="152" y="433" text-anchor="end" font-size="12" fill="#57606a">AG2</text>
+<text x="152" y="433" text-anchor="end" font-size="12" fill="#57606a">Google ADK</text>
 <rect x="160" y="414" width="2.0" height="28" rx="4" fill="#ffc8c8" opacity="0.85"/>
 <text x="168" y="433" font-size="11" fill="#24292f">0.0</text>
-<text x="152" y="467" text-anchor="end" font-size="12" fill="#57606a">Google ADK</text>
+<text x="152" y="467" text-anchor="end" font-size="12" fill="#57606a">AG2</text>
 <rect x="160" y="448" width="2.0" height="28" rx="4" fill="#ffc8c8" opacity="0.85"/>
 <text x="168" y="467" font-size="11" fill="#24292f">0.0</text>
 <text x="152" y="501" text-anchor="end" font-size="12" fill="#57606a">DSPy</text>
