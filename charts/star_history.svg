@@ -5,41 +5,41 @@
 <line x1="70" y1="50.0" x2="550" y2="50.0" stroke="#e1e4e8" stroke-width="1"/>
 <text x="62" y="54.0" text-anchor="end" font-size="10" fill="#57606a">59.8k</text>
 <line x1="70" y1="127.5" x2="550" y2="127.5" stroke="#e1e4e8" stroke-width="1"/>
-<text x="62" y="131.5" text-anchor="end" font-size="10" fill="#57606a">48.6k</text>
+<text x="62" y="131.5" text-anchor="end" font-size="10" fill="#57606a">48.7k</text>
 <line x1="70" y1="205.0" x2="550" y2="205.0" stroke="#e1e4e8" stroke-width="1"/>
 <text x="62" y="209.0" text-anchor="end" font-size="10" fill="#57606a">37.5k</text>
 <line x1="70" y1="282.5" x2="550" y2="282.5" stroke="#e1e4e8" stroke-width="1"/>
 <text x="62" y="286.5" text-anchor="end" font-size="10" fill="#57606a">26.4k</text>
 <line x1="70" y1="360.0" x2="550" y2="360.0" stroke="#e1e4e8" stroke-width="1"/>
 <text x="62" y="364.0" text-anchor="end" font-size="10" fill="#57606a">15.2k</text>
-<path d="M70.0,269.8 L70.7,269.8 L79.2,269.6 L137.7,269.0 L196.0,268.5 L255.0,268.0 L315.3,267.5 L372.9,267.0 L432.3,266.3 L491.1,265.7 L550.0,265.1" fill="none" stroke="#4CAF50" stroke-width="2" stroke-linecap="round"/>
+<path d="M70.0,269.9 L70.7,269.9 L78.2,269.7 L130.6,269.1 L182.7,268.6 L235.4,268.1 L289.3,267.6 L340.8,267.1 L393.9,266.4 L446.4,265.8 L499.1,265.2 L550.0,264.7" fill="none" stroke="#4CAF50" stroke-width="2" stroke-linecap="round"/>
 <rect x="562" y="60" width="12" height="12" rx="2" fill="#4CAF50"/>
 <text x="578" y="70" font-size="10" fill="#24292f">LangGraph</text>
-<path d="M70.0,133.2 L70.7,133.2 L79.2,133.1 L137.7,132.6 L196.0,132.0 L255.0,131.4 L315.3,131.0 L372.9,130.4 L432.3,129.7 L491.1,129.0 L550.0,128.4" fill="none" stroke="#2196F3" stroke-width="2" stroke-linecap="round"/>
+<path d="M70.0,133.4 L70.7,133.4 L78.2,133.3 L130.6,132.8 L182.7,132.2 L235.4,131.6 L289.3,131.2 L340.8,130.6 L393.9,129.9 L446.4,129.2 L499.1,128.6 L550.0,128.1" fill="none" stroke="#2196F3" stroke-width="2" stroke-linecap="round"/>
 <rect x="562" y="78" width="12" height="12" rx="2" fill="#2196F3"/>
 <text x="578" y="88" font-size="10" fill="#24292f">CrewAI</text>
-<path d="M70.0,72.1 L70.7,72.1 L79.2,72.0 L137.7,71.8 L196.0,71.5 L255.0,71.2 L315.3,71.0 L372.9,70.7 L432.3,70.5 L491.1,70.2 L550.0,69.8" fill="none" stroke="#FF9800" stroke-width="2" stroke-linecap="round"/>
+<path d="M70.0,72.4 L70.7,72.4 L78.2,72.3 L130.6,72.0 L182.7,71.7 L235.4,71.5 L289.3,71.3 L340.8,71.0 L393.9,70.8 L446.4,70.5 L499.1,70.1 L550.0,69.8" fill="none" stroke="#FF9800" stroke-width="2" stroke-linecap="round"/>
 <rect x="562" y="96" width="12" height="12" rx="2" fill="#FF9800"/>
 <text x="578" y="106" font-size="10" fill="#24292f">AutoGen</text>
-<path d="M70.0,130.3 L70.7,130.3 L79.2,130.3 L137.7,130.1 L196.0,129.9 L255.0,129.7 L315.3,129.6 L372.9,129.3 L432.3,129.1 L491.1,128.9 L550.0,128.5" fill="none" stroke="#E91E63" stroke-width="2" stroke-linecap="round"/>
+<path d="M70.0,130.6 L70.7,130.5 L78.2,130.5 L130.6,130.3 L182.7,130.1 L235.4,129.9 L289.3,129.8 L340.8,129.6 L393.9,129.3 L446.4,129.1 L499.1,128.8 L550.0,128.6" fill="none" stroke="#E91E63" stroke-width="2" stroke-linecap="round"/>
 <rect x="562" y="114" width="12" height="12" rx="2" fill="#E91E63"/>
 <text x="578" y="124" font-size="10" fill="#24292f">LlamaIndex</text>
-<path d="M70.0,294.1 L70.7,294.1 L79.2,294.1 L137.7,294.1 L196.0,294.0 L255.0,293.9 L315.3,293.8 L372.9,293.7 L432.3,293.6 L491.1,293.5 L550.0,293.4" fill="none" stroke="#9C27B0" stroke-width="2" stroke-linecap="round"/>
+<path d="M70.0,294.2 L70.7,294.2 L78.2,294.2 L130.6,294.1 L182.7,294.1 L235.4,294.0 L289.3,293.9 L340.8,293.8 L393.9,293.7 L446.4,293.6 L499.1,293.5 L550.0,293.4" fill="none" stroke="#9C27B0" stroke-width="2" stroke-linecap="round"/>
 <rect x="562" y="132" width="12" height="12" rx="2" fill="#9C27B0"/>
 <text x="578" y="142" font-size="10" fill="#24292f">Haystack</text>
-<path d="M70.0,354.4 L70.7,354.4 L79.2,354.3 L137.7,354.2 L196.0,353.9 L255.0,353.9 L315.3,353.8 L372.9,353.5 L432.3,353.4 L491.1,353.3 L550.0,353.0" fill="none" stroke="#00BCD4" stroke-width="2" stroke-linecap="round"/>
+<path d="M70.0,354.4 L70.7,354.4 L78.2,354.3 L130.6,354.2 L182.7,353.9 L235.4,353.9 L289.3,353.8 L340.8,353.5 L393.9,353.4 L446.4,353.3 L499.1,353.0 L550.0,352.8" fill="none" stroke="#00BCD4" stroke-width="2" stroke-linecap="round"/>
 <rect x="562" y="150" width="12" height="12" rx="2" fill="#00BCD4"/>
 <text x="578" y="160" font-size="10" fill="#24292f">PydanticAI</text>
-<path d="M70.0,193.8 L70.7,193.8 L79.2,193.8 L137.7,193.6 L196.0,193.4 L255.0,193.2 L315.3,193.2 L372.9,193.0 L432.3,192.8 L491.1,192.6 L550.0,192.3" fill="none" stroke="#FF5722" stroke-width="2" stroke-linecap="round"/>
+<path d="M70.0,194.0 L70.7,194.0 L78.2,194.0 L130.6,193.7 L182.7,193.6 L235.4,193.4 L289.3,193.3 L340.8,193.1 L393.9,192.9 L446.4,192.7 L499.1,192.4 L550.0,192.3" fill="none" stroke="#FF5722" stroke-width="2" stroke-linecap="round"/>
 <rect x="562" y="168" width="12" height="12" rx="2" fill="#FF5722"/>
 <text x="578" y="178" font-size="10" fill="#24292f">Agno</text>
-<path d="M70.0,335.8 L70.7,335.8 L79.2,335.8 L137.7,335.6 L196.0,335.5 L255.0,335.4 L315.3,335.3 L372.9,335.2 L432.3,335.0 L491.1,334.9 L550.0,334.7" fill="none" stroke="#795548" stroke-width="2" stroke-linecap="round"/>
+<path d="M70.0,335.8 L70.7,335.8 L78.2,335.8 L130.6,335.7 L182.7,335.6 L235.4,335.5 L289.3,335.3 L340.8,335.2 L393.9,335.0 L446.4,334.9 L499.1,334.7 L550.0,334.7" fill="none" stroke="#795548" stroke-width="2" stroke-linecap="round"/>
 <rect x="562" y="186" width="12" height="12" rx="2" fill="#795548"/>
 <text x="578" y="196" font-size="10" fill="#24292f">Google ADK</text>
-<path d="M70.0,308.8 L70.7,308.8 L79.2,308.8 L137.7,308.5 L196.0,308.2 L255.0,308.0 L315.3,307.8 L372.9,307.6 L432.3,307.3 L491.1,307.1 L550.0,306.8" fill="none" stroke="#607D8B" stroke-width="2" stroke-linecap="round"/>
+<path d="M70.0,308.9 L70.7,308.9 L78.2,308.8 L130.6,308.5 L182.7,308.3 L235.4,308.0 L289.3,307.9 L340.8,307.6 L393.9,307.4 L446.4,307.1 L499.1,306.9 L550.0,306.6" fill="none" stroke="#607D8B" stroke-width="2" stroke-linecap="round"/>
 <rect x="562" y="204" width="12" height="12" rx="2" fill="#607D8B"/>
 <text x="578" y="214" font-size="10" fill="#24292f">Mastra</text>
-<path d="M70.0,323.2 L70.7,323.2 L79.2,323.2 L137.7,323.0 L196.0,322.8 L255.0,322.7 L315.3,322.6 L372.9,322.4 L432.3,322.2 L491.1,322.1 L550.0,322.0" fill="none" stroke="#CDDC39" stroke-width="2" stroke-linecap="round"/>
+<path d="M70.0,323.3 L70.7,323.3 L78.2,323.2 L130.6,323.0 L182.7,322.9 L235.4,322.7 L289.3,322.6 L340.8,322.4 L393.9,322.3 L446.4,322.2 L499.1,322.0 L550.0,321.9" fill="none" stroke="#CDDC39" stroke-width="2" stroke-linecap="round"/>
 <rect x="562" y="222" width="12" height="12" rx="2" fill="#CDDC39"/>
 <text x="578" y="232" font-size="10" fill="#24292f">OpenAI Agents SDK</text>
 </svg>
