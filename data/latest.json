@@ -1,13 +1,13 @@
 {
   "LangGraph": {
-    "stars": 31736,
-    "forks": 5389,
-    "open_issues": 527,
-    "watchers": 154,
+    "stars": 31829,
+    "forks": 5401,
+    "open_issues": 523,
+    "watchers": 156,
     "language": "Python",
     "license": "MIT",
     "created_at": "2023-08-09T18:33:12Z",
-    "pushed_at": "2026-05-10T01:06:47Z",
+    "pushed_at": "2026-05-12T03:46:55Z",
     "description": "Build resilient agents.",
     "archived": false,
     "default_branch": "main",
@@ -16,34 +16,34 @@
     "category": "orchestration",
     "releases": [
       {
-        "tag": "cli==0.4.25",
-        "name": "langgraph-cli==0.4.25",
-        "published_at": "2026-05-07T16:33:24Z",
+        "tag": "1.2.0",
+        "name": "langgraph==1.2.0",
+        "published_at": "2026-05-12T03:46:55Z",
         "prerelease": false
       },
       {
-        "tag": "sdk==0.3.14",
-        "name": "langgraph-sdk==0.3.14",
-        "published_at": "2026-05-05T18:40:27Z",
+        "tag": "prebuilt==1.1.0",
+        "name": "langgraph-prebuilt==1.1.0",
+        "published_at": "2026-05-12T03:38:11Z",
         "prerelease": false
       },
       {
-        "tag": "checkpointsqlite==3.1.0a1",
-        "name": "langgraph-checkpoint-sqlite==3.1.0a1",
-        "published_at": "2026-05-05T19:35:35Z",
+        "tag": "cli==0.4.26",
+        "name": "langgraph-cli==0.4.26",
+        "published_at": "2026-05-12T00:28:31Z",
         "prerelease": false
       },
       {
-        "tag": "1.2.0a7",
-        "name": "langgraph==1.2.0a7",
-        "published_at": "2026-05-04T19:35:44Z",
+        "tag": "checkpointsqlite==3.1.0",
+        "name": "langgraph-checkpoint-sqlite==3.1.0",
+        "published_at": "2026-05-12T03:35:09Z",
         "prerelease": false
       },
       {
-        "tag": "1.2.0a6",
-        "name": "langgraph==1.2.0a6",
-        "published_at": "2026-05-04T13:04:06Z",
-        "prerelease": true
+        "tag": "checkpointpostgres==3.1.0",
+        "name": "langgraph-checkpoint-postgres==3.1.0",
+        "published_at": "2026-05-12T03:40:29Z",
+        "prerelease": false
       }
     ],
     "commit_activity": {
@@ -53,34 +53,34 @@
     },
     "contributors": 273,
     "issues": {
-      "open": 287,
+      "open": 288,
       "closed": 1017,
-      "close_ratio": 0.78
+      "close_ratio": 0.779
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 68.8,
+      "pulse_score": 68.9,
       "components": {
         "star_velocity": 100,
-        "release_freshness": 99.0,
-        "issue_health": 78.0,
+        "release_freshness": 100.0,
+        "issue_health": 77.9,
         "commit_activity": 0.0,
         "community": 54.6,
         "fork_ratio": 67.9
       },
-      "star_velocity_7d": 596,
-      "star_velocity_30d": 2807
+      "star_velocity_7d": 622,
+      "star_velocity_30d": 2836
     }
   },
   "CrewAI": {
-    "stars": 51140,
-    "forks": 7069,
-    "open_issues": 291,
-    "watchers": 367,
+    "stars": 51223,
+    "forks": 7080,
+    "open_issues": 289,
+    "watchers": 373,
     "language": "Python",
     "license": "MIT",
     "created_at": "2023-10-27T03:26:59Z",
-    "pushed_at": "2026-05-09T04:25:08Z",
+    "pushed_at": "2026-05-11T21:00:46Z",
     "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
     "archived": false,
     "default_branch": "main",
@@ -126,30 +126,30 @@
     },
     "contributors": 296,
     "issues": {
-      "open": 26,
-      "closed": 1917,
-      "close_ratio": 0.987
+      "open": 23,
+      "closed": 1921,
+      "close_ratio": 0.988
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
       "pulse_score": 71.1,
       "components": {
         "star_velocity": 100,
-        "release_freshness": 99.3,
-        "issue_health": 98.7,
+        "release_freshness": 99.0,
+        "issue_health": 98.8,
         "commit_activity": 0.0,
         "community": 59.2,
         "fork_ratio": 55.3
       },
-      "star_velocity_7d": 575,
-      "star_velocity_30d": 2573
+      "star_velocity_7d": 581,
+      "star_velocity_30d": 2579
     }
   },
   "AutoGen": {
-    "stars": 57916,
-    "forks": 8737,
-    "open_issues": 814,
-    "watchers": 521,
+    "stars": 57958,
+    "forks": 8739,
+    "open_issues": 821,
+    "watchers": 522,
     "language": "Python",
     "license": "CC-BY-4.0",
     "created_at": "2023-08-18T11:43:45Z",
@@ -199,34 +199,34 @@
     },
     "contributors": 445,
     "issues": {
-      "open": 519,
+      "open": 523,
       "closed": 2504,
-      "close_ratio": 0.828
+      "close_ratio": 0.827
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 44.2,
+      "pulse_score": 44.6,
       "components": {
-        "star_velocity": 46.7,
-        "release_freshness": 25.7,
-        "issue_health": 82.8,
+        "star_velocity": 48.9,
+        "release_freshness": 25.3,
+        "issue_health": 82.7,
         "commit_activity": 0.0,
         "community": 89.0,
         "fork_ratio": 60.3
       },
-      "star_velocity_7d": 230,
-      "star_velocity_30d": 967
+      "star_velocity_7d": 244,
+      "star_velocity_30d": 980
     }
   },
   "LlamaIndex": {
-    "stars": 49328,
-    "forks": 7386,
-    "open_issues": 333,
-    "watchers": 275,
+    "stars": 49354,
+    "forks": 7394,
+    "open_issues": 345,
+    "watchers": 278,
     "language": "Python",
     "license": "MIT",
     "created_at": "2022-11-02T04:24:54Z",
-    "pushed_at": "2026-05-11T02:21:12Z",
+    "pushed_at": "2026-05-11T20:18:56Z",
     "description": "LlamaIndex is the leading document agent and OCR platform",
     "archived": false,
     "default_branch": "main",
@@ -272,34 +272,34 @@
     },
     "contributors": 473,
     "issues": {
-      "open": 168,
-      "closed": 6911,
+      "open": 170,
+      "closed": 6913,
       "close_ratio": 0.976
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 59.1,
+      "pulse_score": 59.8,
       "components": {
-        "star_velocity": 41.5,
-        "release_freshness": 93.3,
+        "star_velocity": 44.3,
+        "release_freshness": 93.0,
         "issue_health": 97.6,
         "commit_activity": 0.0,
         "community": 94.6,
         "fork_ratio": 59.9
       },
-      "star_velocity_7d": 207,
-      "star_velocity_30d": 838
+      "star_velocity_7d": 226,
+      "star_velocity_30d": 844
     }
   },
   "Haystack": {
-    "stars": 25145,
-    "forks": 2777,
-    "open_issues": 116,
+    "stars": 25182,
+    "forks": 2781,
+    "open_issues": 115,
     "watchers": 160,
     "language": "MDX",
     "license": "Apache-2.0",
     "created_at": "2019-11-14T09:05:28Z",
-    "pushed_at": "2026-05-11T09:39:25Z",
+    "pushed_at": "2026-05-12T07:46:33Z",
     "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
     "archived": false,
     "default_branch": "main",
@@ -307,6 +307,12 @@
     "name": "Haystack",
     "category": "pipeline",
     "releases": [
+      {
+        "tag": "v2.29.0-rc1",
+        "name": "v2.29.0-rc1",
+        "published_at": "2026-05-11T14:37:25Z",
+        "prerelease": true
+      },
       {
         "tag": "v2.28.0",
         "name": "v2.28.0",
@@ -330,12 +336,6 @@
         "name": "v2.27.0",
         "published_at": "2026-04-01T13:49:30Z",
         "prerelease": false
-      },
-      {
-        "tag": "v2.27.0-rc1",
-        "name": "v2.27.0-rc1",
-        "published_at": "2026-03-31T07:54:35Z",
-        "prerelease": true
       }
     ],
     "commit_activity": {
@@ -345,34 +345,34 @@
     },
     "contributors": 344,
     "issues": {
-      "open": 93,
-      "closed": 4220,
-      "close_ratio": 0.978
+      "open": 92,
+      "closed": 4222,
+      "close_ratio": 0.979
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 48.6,
+      "pulse_score": 50.8,
       "components": {
-        "star_velocity": 15.9,
-        "release_freshness": 93.3,
-        "issue_health": 97.8,
+        "star_velocity": 19.4,
+        "release_freshness": 100.0,
+        "issue_health": 97.9,
         "commit_activity": 0.0,
         "community": 68.8,
         "fork_ratio": 44.2
       },
-      "star_velocity_7d": 77,
-      "star_velocity_30d": 343
+      "star_velocity_7d": 99,
+      "star_velocity_30d": 369
     }
   },
   "PydanticAI": {
-    "stars": 16989,
-    "forks": 2053,
-    "open_issues": 525,
-    "watchers": 105,
+    "stars": 17015,
+    "forks": 2060,
+    "open_issues": 536,
+    "watchers": 107,
     "language": "Python",
     "license": "MIT",
     "created_at": "2024-06-21T15:55:04Z",
-    "pushed_at": "2026-05-11T09:41:10Z",
+    "pushed_at": "2026-05-12T07:09:38Z",
     "description": "AI Agent Framework, the Pydantic way",
     "archived": false,
     "default_branch": "main",
@@ -380,6 +380,12 @@
     "name": "PydanticAI",
     "category": "structured",
     "releases": [
+      {
+        "tag": "v1.94.0",
+        "name": "v1.94.0 (2026-05-12)",
+        "published_at": "2026-05-12T06:52:00Z",
+        "prerelease": false
+      },
       {
         "tag": "v1.93.0",
         "name": "v1.93.0 (2026-05-08)",
@@ -403,12 +409,6 @@
         "name": "v1.90.0 (2026-05-04)",
         "published_at": "2026-05-05T00:39:51Z",
         "prerelease": false
-      },
-      {
-        "tag": "v1.89.1",
-        "name": "v1.89.1 (2026-05-01)",
-        "published_at": "2026-05-01T18:57:59Z",
-        "prerelease": false
       }
     ],
     "commit_activity": {
@@ -418,34 +418,34 @@
     },
     "contributors": 440,
     "issues": {
-      "open": 368,
-      "closed": 1809,
-      "close_ratio": 0.831
+      "open": 374,
+      "closed": 1810,
+      "close_ratio": 0.829
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 54.6,
+      "pulse_score": 54.8,
       "components": {
-        "star_velocity": 34.4,
-        "release_freshness": 99.3,
-        "issue_health": 83.1,
+        "star_velocity": 35.0,
+        "release_freshness": 100.0,
+        "issue_health": 82.9,
         "commit_activity": 0.0,
         "community": 88.0,
-        "fork_ratio": 48.3
+        "fork_ratio": 48.4
       },
-      "star_velocity_7d": 168,
-      "star_velocity_30d": 728
+      "star_velocity_7d": 172,
+      "star_velocity_30d": 726
     }
   },
   "Agno": {
-    "stars": 40054,
-    "forks": 5362,
-    "open_issues": 869,
-    "watchers": 235,
+    "stars": 40078,
+    "forks": 5365,
+    "open_issues": 870,
+    "watchers": 236,
     "language": "Python",
     "license": "Apache-2.0",
     "created_at": "2022-05-04T15:23:02Z",
-    "pushed_at": "2026-05-11T09:25:59Z",
+    "pushed_at": "2026-05-12T08:36:35Z",
     "description": "Build, run, and manage agent platforms.",
     "archived": false,
     "default_branch": "main",
@@ -491,34 +491,34 @@
     },
     "contributors": 421,
     "issues": {
-      "open": 397,
-      "closed": 1859,
+      "open": 398,
+      "closed": 1860,
       "close_ratio": 0.824
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 53.9,
+      "pulse_score": 54.4,
       "components": {
-        "star_velocity": 32.1,
-        "release_freshness": 98.7,
+        "star_velocity": 34.6,
+        "release_freshness": 98.3,
         "issue_health": 82.4,
         "commit_activity": 0.0,
         "community": 84.2,
         "fork_ratio": 53.5
       },
-      "star_velocity_7d": 153,
-      "star_velocity_30d": 714
+      "star_velocity_7d": 170,
+      "star_velocity_30d": 718
     }
   },
   "Google ADK": {
-    "stars": 19572,
-    "forks": 3367,
-    "open_issues": 827,
+    "stars": 19589,
+    "forks": 3373,
+    "open_issues": 797,
     "watchers": 152,
     "language": "Python",
     "license": "Apache-2.0",
     "created_at": "2025-04-01T20:44:40Z",
-    "pushed_at": "2026-05-09T00:29:20Z",
+    "pushed_at": "2026-05-11T22:51:14Z",
     "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
     "archived": false,
     "default_branch": "main",
@@ -564,34 +564,34 @@
     },
     "contributors": 271,
     "issues": {
-      "open": 475,
-      "closed": 2170,
+      "open": 476,
+      "closed": 2172,
       "close_ratio": 0.82
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 52.6,
+      "pulse_score": 52.4,
       "components": {
-        "star_velocity": 32.3,
-        "release_freshness": 99.3,
+        "star_velocity": 32.1,
+        "release_freshness": 99.0,
         "issue_health": 82.0,
         "commit_activity": 0.0,
         "community": 54.2,
-        "fork_ratio": 68.8
+        "fork_ratio": 68.9
       },
-      "star_velocity_7d": 155,
-      "star_velocity_30d": 710
+      "star_velocity_7d": 154,
+      "star_velocity_30d": 706
     }
   },
   "Mastra": {
-    "stars": 23767,
-    "forks": 2050,
-    "open_issues": 396,
-    "watchers": 94,
+    "stars": 23794,
+    "forks": 2059,
+    "open_issues": 370,
+    "watchers": 95,
     "language": "TypeScript",
     "license": "NOASSERTION",
     "created_at": "2024-08-06T20:44:31Z",
-    "pushed_at": "2026-05-11T09:42:42Z",
+    "pushed_at": "2026-05-12T08:23:23Z",
     "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
     "archived": false,
     "default_branch": "main",
@@ -631,8 +631,8 @@
       }
     ],
     "commit_activity": {
-      "total_last_4w": 830,
-      "total_last_12w": 2709,
+      "total_last_4w": 888,
+      "total_last_12w": 2767,
       "weekly": [
         {
           "week": 1771718400,
@@ -680,40 +680,40 @@
         },
         {
           "week": 1778371200,
-          "total": 19
+          "total": 77
         }
       ]
     },
-    "contributors": 429,
+    "contributors": 433,
     "issues": {
-      "open": 223,
-      "closed": 3815,
-      "close_ratio": 0.945
+      "open": 216,
+      "closed": 3836,
+      "close_ratio": 0.947
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 77.1,
+      "pulse_score": 77.0,
       "components": {
-        "star_velocity": 44.8,
-        "release_freshness": 98.7,
-        "issue_health": 94.5,
+        "star_velocity": 43.8,
+        "release_freshness": 98.3,
+        "issue_health": 94.7,
         "commit_activity": 100,
-        "community": 85.8,
-        "fork_ratio": 34.5
+        "community": 86.6,
+        "fork_ratio": 34.6
       },
-      "star_velocity_7d": 226,
-      "star_velocity_30d": 875
+      "star_velocity_7d": 218,
+      "star_velocity_30d": 888
     }
   },
   "OpenAI Agents SDK": {
-    "stars": 26178,
-    "forks": 4016,
-    "open_issues": 81,
+    "stars": 26220,
+    "forks": 4018,
+    "open_issues": 77,
     "watchers": 207,
     "language": "Python",
     "license": "MIT",
     "created_at": "2025-03-11T03:42:36Z",
-    "pushed_at": "2026-05-11T08:03:37Z",
+    "pushed_at": "2026-05-12T07:05:45Z",
     "description": "A lightweight, powerful framework for multi-agent workflows",
     "archived": false,
     "default_branch": "main",
@@ -721,6 +721,12 @@
     "name": "OpenAI Agents SDK",
     "category": "orchestration",
     "releases": [
+      {
+        "tag": "v0.17.2",
+        "name": "v0.17.2",
+        "published_at": "2026-05-12T03:14:17Z",
+        "prerelease": false
+      },
       {
         "tag": "v0.17.1",
         "name": "v0.17.1",
@@ -744,12 +750,6 @@
         "name": "v0.16.0",
         "published_at": "2026-05-07T00:27:54Z",
         "prerelease": false
-      },
-      {
-        "tag": "v0.15.3",
-        "name": "v0.15.3",
-        "published_at": "2026-05-06T12:12:14Z",
-        "prerelease": false
       }
     ],
     "commit_activity": {
@@ -757,13 +757,13 @@
       "total_last_12w": 0,
       "weekly": []
     },
-    "contributors": 267,
+    "contributors": 268,
     "issues": {
       "open": 45,
-      "closed": 1215,
+      "closed": 1222,
       "close_ratio": 0.964
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
       "pulse_score": 70.9,
       "components": {
@@ -771,18 +771,18 @@
         "release_freshness": 100.0,
         "issue_health": 96.4,
         "commit_activity": 0.0,
-        "community": 53.4,
-        "fork_ratio": 61.4
+        "community": 53.6,
+        "fork_ratio": 61.3
       },
-      "star_velocity_7d": 337,
-      "star_velocity_30d": 5481
+      "star_velocity_7d": 338,
+      "star_velocity_30d": 5503
     }
   },
   "Smolagents": {
-    "stars": 27222,
-    "forks": 2571,
-    "open_issues": 538,
-    "watchers": 133,
+    "stars": 27248,
+    "forks": 2575,
+    "open_issues": 540,
+    "watchers": 134,
     "language": "Python",
     "license": "Apache-2.0",
     "created_at": "2024-12-05T11:28:04Z",
@@ -836,30 +836,30 @@
       "closed": 514,
       "close_ratio": 0.666
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 37.9,
+      "pulse_score": 38.3,
       "components": {
-        "star_velocity": 31.4,
-        "release_freshness": 61.7,
+        "star_velocity": 33.0,
+        "release_freshness": 61.3,
         "issue_health": 66.6,
         "commit_activity": 0.0,
         "community": 39.6,
         "fork_ratio": 37.8
       },
-      "star_velocity_7d": 152,
-      "star_velocity_30d": 675
+      "star_velocity_7d": 162,
+      "star_velocity_30d": 689
     }
   },
   "Claude Agent SDK": {
-    "stars": 122427,
-    "forks": 20228,
-    "open_issues": 10871,
-    "watchers": 761,
+    "stars": 122744,
+    "forks": 20265,
+    "open_issues": 10849,
+    "watchers": 767,
     "language": "Shell",
     "license": "Unknown",
     "created_at": "2025-02-22T17:41:21Z",
-    "pushed_at": "2026-05-09T06:33:25Z",
+    "pushed_at": "2026-05-11T18:43:42Z",
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
     "archived": false,
     "default_branch": "main",
@@ -867,6 +867,12 @@
     "name": "Claude Agent SDK",
     "category": "orchestration",
     "releases": [
+      {
+        "tag": "v2.1.139",
+        "name": "v2.1.139",
+        "published_at": "2026-05-11T18:43:42Z",
+        "prerelease": false
+      },
       {
         "tag": "v2.1.138",
         "name": "v2.1.138",
@@ -890,12 +896,6 @@
         "name": "v2.1.133",
         "published_at": "2026-05-07T23:49:04Z",
         "prerelease": false
-      },
-      {
-        "tag": "v2.1.132",
-        "name": "v2.1.132",
-        "published_at": "2026-05-06T22:08:13Z",
-        "prerelease": false
       }
     ],
     "commit_activity": {
@@ -905,34 +905,34 @@
     },
     "contributors": 50,
     "issues": {
-      "open": 10339,
-      "closed": 45371,
-      "close_ratio": 0.814
+      "open": 10316,
+      "closed": 45678,
+      "close_ratio": 0.816
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 64.7,
+      "pulse_score": 64.8,
       "components": {
         "star_velocity": 100,
-        "release_freshness": 99.3,
-        "issue_health": 81.4,
+        "release_freshness": 100.0,
+        "issue_health": 81.6,
         "commit_activity": 0.0,
         "community": 10.0,
-        "fork_ratio": 66.1
+        "fork_ratio": 66.0
       },
-      "star_velocity_7d": 2216,
-      "star_velocity_30d": 10094
+      "star_velocity_7d": 2282,
+      "star_velocity_30d": 10024
     }
   },
   "Semantic Kernel": {
-    "stars": 27883,
-    "forks": 4594,
-    "open_issues": 287,
-    "watchers": 288,
+    "stars": 27894,
+    "forks": 4592,
+    "open_issues": 306,
+    "watchers": 289,
     "language": "C#",
     "license": "MIT",
     "created_at": "2023-02-27T17:39:42Z",
-    "pushed_at": "2026-05-11T09:37:03Z",
+    "pushed_at": "2026-05-12T08:47:24Z",
     "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
     "archived": false,
     "default_branch": "main",
@@ -978,34 +978,34 @@
     },
     "contributors": 395,
     "issues": {
-      "open": 178,
-      "closed": 4729,
-      "close_ratio": 0.964
+      "open": 192,
+      "closed": 4730,
+      "close_ratio": 0.961
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 51.5,
+      "pulse_score": 51.7,
       "components": {
-        "star_velocity": 10.3,
+        "star_velocity": 11.2,
         "release_freshness": 100.0,
-        "issue_health": 96.4,
+        "issue_health": 96.1,
         "commit_activity": 0.0,
         "community": 79.0,
-        "fork_ratio": 65.9
+        "fork_ratio": 65.8
       },
-      "star_velocity_7d": 52,
-      "star_velocity_30d": 201
+      "star_velocity_7d": 58,
+      "star_velocity_30d": 205
     }
   },
   "DSPy": {
-    "stars": 34333,
+    "stars": 34348,
     "forks": 2881,
-    "open_issues": 475,
+    "open_issues": 466,
     "watchers": 194,
     "language": "Python",
     "license": "MIT",
     "created_at": "2023-01-09T21:01:51Z",
-    "pushed_at": "2026-05-07T21:23:07Z",
+    "pushed_at": "2026-05-11T13:33:56Z",
     "description": "DSPy: The framework for programming\u2014not prompting\u2014language models",
     "archived": false,
     "default_branch": "main",
@@ -1049,36 +1049,36 @@
       "total_last_12w": 0,
       "weekly": []
     },
-    "contributors": 389,
+    "contributors": 390,
     "issues": {
-      "open": 285,
-      "closed": 1306,
-      "close_ratio": 0.821
+      "open": 282,
+      "closed": 1309,
+      "close_ratio": 0.823
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 51.3,
+      "pulse_score": 51.2,
       "components": {
-        "star_velocity": 32.5,
-        "release_freshness": 98.3,
-        "issue_health": 82.1,
+        "star_velocity": 32.4,
+        "release_freshness": 98.0,
+        "issue_health": 82.3,
         "commit_activity": 0.0,
-        "community": 77.8,
+        "community": 78.0,
         "fork_ratio": 33.6
       },
-      "star_velocity_7d": 153,
-      "star_velocity_30d": 741
+      "star_velocity_7d": 152,
+      "star_velocity_30d": 740
     }
   },
   "BrowserUse": {
-    "stars": 93357,
-    "forks": 10567,
-    "open_issues": 228,
-    "watchers": 430,
+    "stars": 93504,
+    "forks": 10590,
+    "open_issues": 225,
+    "watchers": 431,
     "language": "Python",
     "license": "MIT",
     "created_at": "2024-10-31T16:00:56Z",
-    "pushed_at": "2026-05-11T08:04:01Z",
+    "pushed_at": "2026-05-11T19:59:56Z",
     "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
     "archived": false,
     "default_branch": "main",
@@ -1124,34 +1124,34 @@
     },
     "contributors": 315,
     "issues": {
-      "open": 54,
-      "closed": 1461,
+      "open": 55,
+      "closed": 1462,
       "close_ratio": 0.964
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 67.7,
+      "pulse_score": 67.6,
       "components": {
         "star_velocity": 100,
-        "release_freshness": 87.0,
+        "release_freshness": 86.7,
         "issue_health": 96.4,
         "commit_activity": 0.0,
         "community": 63.0,
         "fork_ratio": 45.3
       },
-      "star_velocity_7d": 1399,
-      "star_velocity_30d": 6271
+      "star_velocity_7d": 1345,
+      "star_velocity_30d": 6192
     }
   },
   "Composio": {
-    "stars": 28153,
-    "forks": 4551,
-    "open_issues": 100,
-    "watchers": 63,
+    "stars": 28175,
+    "forks": 4553,
+    "open_issues": 108,
+    "watchers": 64,
     "language": "TypeScript",
     "license": "MIT",
     "created_at": "2024-02-23T13:58:27Z",
-    "pushed_at": "2026-05-11T09:37:14Z",
+    "pushed_at": "2026-05-12T08:04:32Z",
     "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
     "archived": false,
     "default_branch": "next",
@@ -1160,33 +1160,33 @@
     "category": "tooling",
     "releases": [
       {
-        "tag": "py@0.13.0",
-        "name": "py@0.13.0",
-        "published_at": "2026-05-07T15:53:39Z",
+        "tag": "@composio/vercel@0.9.1",
+        "name": "@composio/vercel@0.9.1",
+        "published_at": "2026-05-11T23:13:25Z",
         "prerelease": false
       },
       {
-        "tag": "@composio/vercel@0.9.0",
-        "name": "@composio/vercel@0.9.0",
-        "published_at": "2026-05-07T15:33:06Z",
+        "tag": "@composio/openai@0.9.1",
+        "name": "@composio/openai@0.9.1",
+        "published_at": "2026-05-11T23:13:22Z",
         "prerelease": false
       },
       {
-        "tag": "@composio/openai@0.9.0",
-        "name": "@composio/openai@0.9.0",
-        "published_at": "2026-05-07T15:33:03Z",
+        "tag": "@composio/openai-agents@0.9.1",
+        "name": "@composio/openai-agents@0.9.1",
+        "published_at": "2026-05-11T23:12:58Z",
         "prerelease": false
       },
       {
-        "tag": "@composio/openai-agents@0.9.0",
-        "name": "@composio/openai-agents@0.9.0",
-        "published_at": "2026-05-07T15:33:04Z",
+        "tag": "@composio/mastra@0.9.1",
+        "name": "@composio/mastra@0.9.1",
+        "published_at": "2026-05-11T23:13:13Z",
         "prerelease": false
       },
       {
-        "tag": "@composio/mastra@0.9.0",
-        "name": "@composio/mastra@0.9.0",
-        "published_at": "2026-05-07T15:33:01Z",
+        "tag": "@composio/llamaindex@0.9.1",
+        "name": "@composio/llamaindex@0.9.1",
+        "published_at": "2026-05-11T23:13:19Z",
         "prerelease": false
       }
     ],
@@ -1198,22 +1198,22 @@
     "contributors": 50,
     "issues": {
       "open": 22,
-      "closed": 556,
+      "closed": 557,
       "close_ratio": 0.962
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 47.3,
+      "pulse_score": 47.6,
       "components": {
-        "star_velocity": 22.4,
-        "release_freshness": 99.0,
+        "star_velocity": 22.7,
+        "release_freshness": 100.0,
         "issue_health": 96.2,
         "commit_activity": 0.0,
         "community": 10.0,
-        "fork_ratio": 64.7
+        "fork_ratio": 64.6
       },
-      "star_velocity_7d": 115,
-      "star_velocity_30d": 423
+      "star_velocity_7d": 116,
+      "star_velocity_30d": 432
     }
   },
   "FastAgency": {
@@ -1221,10 +1221,10 @@
     "repo": "airtai/fastagency"
   },
   "Letta": {
-    "stars": 22626,
-    "forks": 2399,
+    "stars": 22655,
+    "forks": 2403,
     "open_issues": 71,
-    "watchers": 141,
+    "watchers": 140,
     "language": "Python",
     "license": "Apache-2.0",
     "created_at": "2023-10-11T07:38:37Z",
@@ -1275,29 +1275,29 @@
     "contributors": 140,
     "issues": {
       "open": 43,
-      "closed": 1175,
+      "closed": 1177,
       "close_ratio": 0.965
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 48.4,
+      "pulse_score": 48.9,
       "components": {
-        "star_velocity": 38.1,
-        "release_freshness": 86.7,
+        "star_velocity": 40.6,
+        "release_freshness": 86.3,
         "issue_health": 96.5,
         "commit_activity": 0.0,
         "community": 28.0,
         "fork_ratio": 42.4
       },
-      "star_velocity_7d": 204,
-      "star_velocity_30d": 639
+      "star_velocity_7d": 221,
+      "star_velocity_30d": 642
     }
   },
   "Swarm": {
-    "stars": 21475,
+    "stars": 21479,
     "forks": 2283,
     "open_issues": 29,
-    "watchers": 303,
+    "watchers": 304,
     "language": "Python",
     "license": "MIT",
     "created_at": "2024-02-22T20:53:54Z",
@@ -1320,30 +1320,30 @@
       "closed": 6,
       "close_ratio": 0.2
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 10.0,
+      "pulse_score": 10.1,
       "components": {
-        "star_velocity": 9.9,
+        "star_velocity": 10.3,
         "release_freshness": 0,
         "issue_health": 20.0,
         "commit_activity": 0.0,
         "community": 2.8,
         "fork_ratio": 42.5
       },
-      "star_velocity_7d": 51,
-      "star_velocity_30d": 185
+      "star_velocity_7d": 54,
+      "star_velocity_30d": 186
     }
   },
   "AG2": {
-    "stars": 4530,
+    "stars": 4535,
     "forks": 622,
-    "open_issues": 159,
+    "open_issues": 158,
     "watchers": 73,
     "language": "Python",
     "license": "Apache-2.0",
     "created_at": "2024-11-11T20:43:34Z",
-    "pushed_at": "2026-05-11T09:34:43Z",
+    "pushed_at": "2026-05-12T06:02:21Z",
     "description": "AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x",
     "archived": false,
     "default_branch": "main",
@@ -1393,19 +1393,19 @@
       "closed": 828,
       "close_ratio": 0.88
     },
-    "tracked_at": "2026-05-11T09:50:29.318171+00:00",
+    "tracked_at": "2026-05-12T08:46:58.729645+00:00",
     "pulse": {
-      "pulse_score": 49.1,
+      "pulse_score": 48.4,
       "components": {
-        "star_velocity": 8.2,
-        "release_freshness": 98.3,
+        "star_velocity": 6.0,
+        "release_freshness": 98.0,
         "issue_health": 88.0,
         "commit_activity": 0.0,
         "community": 86.4,
         "fork_ratio": 54.9
       },
-      "star_velocity_7d": 43,
-      "star_velocity_30d": 148
+      "star_velocity_7d": 27,
+      "star_velocity_30d": 150
     }
   }
 }
