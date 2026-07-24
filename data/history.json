@@ -1,13 +1,6 @@
 {
   "langchain-ai/langgraph": [
     {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 30299,
-      "forks": 5178,
-      "open_issues": 508,
-      "contributors": 274
-    },
-    {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 30409,
       "forks": 5200,
@@ -622,16 +615,16 @@
       "forks": 6368,
       "open_issues": 638,
       "contributors": 277
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 38005,
+      "forks": 6386,
+      "open_issues": 640,
+      "contributors": 277
     }
   ],
   "crewAIInc/crewAI": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 49833,
-      "forks": 6838,
-      "open_issues": 406,
-      "contributors": 287
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 49937,
@@ -1247,16 +1240,16 @@
       "forks": 7925,
       "open_issues": 657,
       "contributors": 298
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 56060,
+      "forks": 7931,
+      "open_issues": 663,
+      "contributors": 298
     }
   ],
   "microsoft/autogen": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 57416,
-      "forks": 8654,
-      "open_issues": 791,
-      "contributors": 445
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 57442,
@@ -1872,16 +1865,16 @@
       "forks": 9019,
       "open_issues": 969,
       "contributors": 445
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 59930,
+      "forks": 9021,
+      "open_issues": 970,
+      "contributors": 445
     }
   ],
   "run-llama/llama_index": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 48899,
-      "forks": 7306,
-      "open_issues": 307,
-      "contributors": 473
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 48939,
@@ -2490,16 +2483,16 @@
       "forks": 7798,
       "open_issues": 573,
       "contributors": 475
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 51058,
+      "forks": 7805,
+      "open_issues": 572,
+      "contributors": 475
     }
   ],
   "deepset-ai/haystack": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 24979,
-      "forks": 2733,
-      "open_issues": 117,
-      "contributors": 341
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 24993,
@@ -3115,16 +3108,16 @@
       "forks": 2944,
       "open_issues": 110,
       "contributors": 393
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 25996,
+      "forks": 2948,
+      "open_issues": 109,
+      "contributors": 393
     }
   ],
   "pydantic/pydantic-ai": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 16611,
-      "forks": 1981,
-      "open_issues": 509,
-      "contributors": 429
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 16637,
@@ -3740,16 +3733,16 @@
       "forks": 2400,
       "open_issues": 492,
       "contributors": 474
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 18783,
+      "forks": 2407,
+      "open_issues": 505,
+      "contributors": 474
     }
   ],
   "agno-agi/agno": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 39661,
-      "forks": 5295,
-      "open_issues": 790,
-      "contributors": 416
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 39678,
@@ -4365,16 +4358,16 @@
       "forks": 5682,
       "open_issues": 996,
       "contributors": 446
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 41400,
+      "forks": 5690,
+      "open_issues": 1017,
+      "contributors": 446
     }
   ],
   "google/adk-python": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 19254,
-      "forks": 3286,
-      "open_issues": 807,
-      "contributors": 268
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 19276,
@@ -4983,16 +4976,16 @@
       "forks": 3739,
       "open_issues": 602,
       "contributors": 378
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 20863,
+      "forks": 3748,
+      "open_issues": 604,
+      "contributors": 379
     }
   ],
   "mastra-ai/mastra": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 23302,
-      "forks": 1952,
-      "open_issues": 381,
-      "contributors": 401
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 23325,
@@ -5608,16 +5601,16 @@
       "forks": 2499,
       "open_issues": 519,
       "contributors": 465
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 26517,
+      "forks": 2505,
+      "open_issues": 545,
+      "contributors": 465
     }
   ],
   "openai/openai-agents-python": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 25031,
-      "forks": 3820,
-      "open_issues": 67,
-      "contributors": 256
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 25211,
@@ -6226,16 +6219,16 @@
       "forks": 4365,
       "open_issues": 53,
       "contributors": 311
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 28139,
+      "forks": 4370,
+      "open_issues": 58,
+      "contributors": 312
     }
   ],
   "huggingface/smolagents": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 26878,
-      "forks": 2521,
-      "open_issues": 514,
-      "contributors": 198
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 26897,
@@ -6851,16 +6844,16 @@
       "forks": 2804,
       "open_issues": 719,
       "contributors": 203
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 28514,
+      "forks": 2806,
+      "open_issues": 723,
+      "contributors": 203
     }
   ],
   "anthropics/claude-code": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 117735,
-      "forks": 19603,
-      "open_issues": 10609,
-      "contributors": 48
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 117976,
@@ -7476,16 +7469,16 @@
       "forks": 22267,
       "open_issues": 12974,
       "contributors": 52
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 138901,
+      "forks": 22289,
+      "open_issues": 13244,
+      "contributors": 52
     }
   ],
   "microsoft/semantic-kernel": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 27778,
-      "forks": 4571,
-      "open_issues": 489,
-      "contributors": 393
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 27786,
@@ -8101,16 +8094,16 @@
       "forks": 4688,
       "open_issues": 256,
       "contributors": 400
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 28353,
+      "forks": 4688,
+      "open_issues": 216,
+      "contributors": 400
     }
   ],
   "stanfordnlp/dspy": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 33992,
-      "forks": 2841,
-      "open_issues": 509,
-      "contributors": 387
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 34007,
@@ -8726,16 +8719,16 @@
       "forks": 3123,
       "open_issues": 616,
       "contributors": 403
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 36332,
+      "forks": 3126,
+      "open_issues": 616,
+      "contributors": 403
     }
   ],
   "browser-use/browser-use": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 90098,
-      "forks": 10284,
-      "open_issues": 223,
-      "contributors": 310
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 90331,
@@ -9351,16 +9344,16 @@
       "forks": 11676,
       "open_issues": 322,
       "contributors": 315
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 106474,
+      "forks": 11707,
+      "open_issues": 328,
+      "contributors": 315
     }
   ],
   "ComposioHQ/composio": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 27905,
-      "forks": 4534,
-      "open_issues": 141,
-      "contributors": 47
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 27913,
@@ -9976,16 +9969,16 @@
       "forks": 4668,
       "open_issues": 90,
       "contributors": 75
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 29347,
+      "forks": 4672,
+      "open_issues": 103,
+      "contributors": 76
     }
   ],
   "letta-ai/letta": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 22272,
-      "forks": 2360,
-      "open_issues": 80,
-      "contributors": 140
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 22293,
@@ -10594,16 +10587,16 @@
       "forks": 2544,
       "open_issues": 49,
       "contributors": 139
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 23937,
+      "forks": 2547,
+      "open_issues": 50,
+      "contributors": 139
     }
   ],
   "openai/swarm": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 21376,
-      "forks": 2274,
-      "open_issues": 27,
-      "contributors": 14
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 21389,
@@ -11219,16 +11212,16 @@
       "forks": 2335,
       "open_issues": 37,
       "contributors": 14
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 21857,
+      "forks": 2335,
+      "open_issues": 37,
+      "contributors": 14
     }
   ],
   "ag2ai/ag2": [
-    {
-      "timestamp": "2026-04-25T07:26:00.489061+00:00",
-      "stars": 4443,
-      "forks": 594,
-      "open_issues": 210,
-      "contributors": 432
-    },
     {
       "timestamp": "2026-04-26T07:46:24.660937+00:00",
       "stars": 4447,
@@ -11836,6 +11829,13 @@
       "stars": 4789,
       "forks": 680,
       "open_issues": 26,
+      "contributors": 430
+    },
+    {
+      "timestamp": "2026-07-24T08:32:53.664215+00:00",
+      "stars": 4790,
+      "forks": 682,
+      "open_issues": 28,
       "contributors": 430
     }
   ]
