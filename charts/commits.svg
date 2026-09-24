@@ -3,46 +3,46 @@
 <text x="350" y="24" text-anchor="middle" font-size="14" font-weight="bold" fill="#24292f">Commits (Last 4 Weeks)</text>
 <text x="152" y="59" text-anchor="end" font-size="12" fill="#57606a">Mastra</text>
 <rect x="160" y="40" width="480.0" height="28" rx="4" fill="#4caf50" opacity="0.85"/>
-<text x="646.0" y="59" font-size="11" fill="#24292f">1737.0</text>
+<text x="646.0" y="59" font-size="11" fill="#24292f">1863.0</text>
 <text x="152" y="93" text-anchor="end" font-size="12" fill="#57606a">Google ADK</text>
-<rect x="160" y="74" width="101.4" height="28" rx="4" fill="#d9c2ae" opacity="0.85"/>
-<text x="267.41623488773746" y="93" font-size="11" fill="#24292f">367.0</text>
+<rect x="160" y="74" width="101.0" height="28" rx="4" fill="#d9c2ae" opacity="0.85"/>
+<text x="266.99838969404186" y="93" font-size="11" fill="#24292f">392.0</text>
 <text x="152" y="127" text-anchor="end" font-size="12" fill="#57606a">Composio</text>
-<rect x="160" y="108" width="71.0" height="28" rx="4" fill="#e4c4b6" opacity="0.85"/>
-<text x="237.0189982728843" y="127" font-size="11" fill="#24292f">257.0</text>
+<rect x="160" y="108" width="72.9" height="28" rx="4" fill="#e3c4b5" opacity="0.85"/>
+<text x="238.914653784219" y="127" font-size="11" fill="#24292f">283.0</text>
 <text x="152" y="161" text-anchor="end" font-size="12" fill="#57606a">PydanticAI</text>
-<rect x="160" y="142" width="67.2" height="28" rx="4" fill="#e5c4b7" opacity="0.85"/>
-<text x="233.15025906735752" y="161" font-size="11" fill="#24292f">243.0</text>
+<rect x="160" y="142" width="69.6" height="28" rx="4" fill="#e5c4b6" opacity="0.85"/>
+<text x="235.56521739130434" y="161" font-size="11" fill="#24292f">270.0</text>
 <text x="152" y="195" text-anchor="end" font-size="12" fill="#57606a">OpenAI Agents SDK</text>
-<rect x="160" y="176" width="38.7" height="28" rx="4" fill="#f0c5be" opacity="0.85"/>
-<text x="204.6873920552677" y="195" font-size="11" fill="#24292f">140.0</text>
+<rect x="160" y="176" width="36.6" height="28" rx="4" fill="#f1c6be" opacity="0.85"/>
+<text x="202.58615136876006" y="195" font-size="11" fill="#24292f">142.0</text>
 <text x="152" y="229" text-anchor="end" font-size="12" fill="#57606a">BrowserUse</text>
-<rect x="160" y="210" width="36.2" height="28" rx="4" fill="#f1c6be" opacity="0.85"/>
-<text x="202.20034542314335" y="229" font-size="11" fill="#24292f">131.0</text>
+<rect x="160" y="210" width="33.8" height="28" rx="4" fill="#f2c6bf" opacity="0.85"/>
+<text x="199.75201288244767" y="229" font-size="11" fill="#24292f">131.0</text>
 <text x="152" y="263" text-anchor="end" font-size="12" fill="#57606a">Agno</text>
-<rect x="160" y="244" width="32.6" height="28" rx="4" fill="#f2c6bf" opacity="0.85"/>
-<text x="198.60794473229706" y="263" font-size="11" fill="#24292f">118.0</text>
+<rect x="160" y="244" width="32.2" height="28" rx="4" fill="#f2c6bf" opacity="0.85"/>
+<text x="198.2061191626409" y="263" font-size="11" fill="#24292f">125.0</text>
 <text x="152" y="297" text-anchor="end" font-size="12" fill="#57606a">Claude Agent SDK</text>
-<rect x="160" y="278" width="30.9" height="28" rx="4" fill="#f3c6c0" opacity="0.85"/>
-<text x="196.94991364421415" y="297" font-size="11" fill="#24292f">112.0</text>
+<rect x="160" y="278" width="29.1" height="28" rx="4" fill="#f4c6c0" opacity="0.85"/>
+<text x="195.11433172302736" y="297" font-size="11" fill="#24292f">113.0</text>
 <text x="152" y="331" text-anchor="end" font-size="12" fill="#57606a">CrewAI</text>
-<rect x="160" y="312" width="29.3" height="28" rx="4" fill="#f4c6c0" opacity="0.85"/>
-<text x="195.29188255613127" y="331" font-size="11" fill="#24292f">106.0</text>
+<rect x="160" y="312" width="27.6" height="28" rx="4" fill="#f4c6c1" opacity="0.85"/>
+<text x="193.56843800322062" y="331" font-size="11" fill="#24292f">107.0</text>
 <text x="152" y="365" text-anchor="end" font-size="12" fill="#57606a">AG2</text>
-<rect x="160" y="346" width="12.7" height="28" rx="4" fill="#fac7c4" opacity="0.85"/>
-<text x="178.71157167530225" y="365" font-size="11" fill="#24292f">46.0</text>
+<rect x="160" y="346" width="12.1" height="28" rx="4" fill="#fac7c4" opacity="0.85"/>
+<text x="178.10950080515298" y="365" font-size="11" fill="#24292f">47.0</text>
 <text x="152" y="399" text-anchor="end" font-size="12" fill="#57606a">LangGraph</text>
-<rect x="160" y="380" width="10.8" height="28" rx="4" fill="#fac7c5" opacity="0.85"/>
-<text x="176.77720207253887" y="399" font-size="11" fill="#24292f">39.0</text>
+<rect x="160" y="380" width="10.6" height="28" rx="4" fill="#fbc7c5" opacity="0.85"/>
+<text x="176.5636070853462" y="399" font-size="11" fill="#24292f">41.0</text>
 <text x="152" y="433" text-anchor="end" font-size="12" fill="#57606a">DSPy</text>
-<rect x="160" y="414" width="10.8" height="28" rx="4" fill="#fac7c5" opacity="0.85"/>
-<text x="176.77720207253887" y="433" font-size="11" fill="#24292f">39.0</text>
+<rect x="160" y="414" width="10.0" height="28" rx="4" fill="#fbc7c5" opacity="0.85"/>
+<text x="176.04830917874395" y="433" font-size="11" fill="#24292f">39.0</text>
 <text x="152" y="467" text-anchor="end" font-size="12" fill="#57606a">LlamaIndex</text>
 <rect x="160" y="448" width="7.2" height="28" rx="4" fill="#fcc7c6" opacity="0.85"/>
-<text x="173.18480138169258" y="467" font-size="11" fill="#24292f">26.0</text>
+<text x="173.21417069243157" y="467" font-size="11" fill="#24292f">28.0</text>
 <text x="152" y="501" text-anchor="end" font-size="12" fill="#57606a">Semantic Kernel</text>
-<rect x="160" y="482" width="3.3" height="28" rx="4" fill="#fdc7c7" opacity="0.85"/>
-<text x="169.31606217616581" y="501" font-size="11" fill="#24292f">12.0</text>
+<rect x="160" y="482" width="3.1" height="28" rx="4" fill="#fdc7c7" opacity="0.85"/>
+<text x="169.09178743961354" y="501" font-size="11" fill="#24292f">12.0</text>
 <text x="152" y="535" text-anchor="end" font-size="12" fill="#57606a">Letta</text>
 <rect x="160" y="516" width="2.0" height="28" rx="4" fill="#fec7c7" opacity="0.85"/>
 <text x="168" y="535" font-size="11" fill="#24292f">2.0</text>
