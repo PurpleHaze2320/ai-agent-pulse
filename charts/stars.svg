@@ -3,47 +3,47 @@
 <text x="350" y="24" text-anchor="middle" font-size="14" font-weight="bold" fill="#24292f">GitHub Stars</text>
 <text x="152" y="59" text-anchor="end" font-size="12" fill="#57606a">Claude Agent SDK</text>
 <rect x="160" y="40" width="480.0" height="28" rx="4" fill="#4caf50" opacity="0.85"/>
-<text x="646.0" y="59" font-size="11" fill="#24292f">149709.0</text>
+<text x="646.0" y="59" font-size="11" fill="#24292f">149848.0</text>
 <text x="152" y="93" text-anchor="end" font-size="12" fill="#57606a">BrowserUse</text>
-<rect x="160" y="74" width="376.2" height="28" rx="4" fill="#72b469" opacity="0.85"/>
-<text x="542.2403061940164" y="93" font-size="11" fill="#24292f">117347.0</text>
+<rect x="160" y="74" width="376.3" height="28" rx="4" fill="#72b469" opacity="0.85"/>
+<text x="542.2885056857615" y="93" font-size="11" fill="#24292f">117471.0</text>
 <text x="152" y="127" text-anchor="end" font-size="12" fill="#57606a">AutoGen</text>
-<rect x="160" y="108" width="196.5" height="28" rx="4" fill="#b5bd96" opacity="0.85"/>
-<text x="362.48037192152776" y="127" font-size="11" fill="#24292f">61281.0</text>
+<rect x="160" y="108" width="196.4" height="28" rx="4" fill="#b5bd96" opacity="0.85"/>
+<text x="362.35577385083553" y="127" font-size="11" fill="#24292f">61299.0</text>
 <text x="152" y="161" text-anchor="end" font-size="12" fill="#57606a">CrewAI</text>
-<rect x="160" y="142" width="190.5" height="28" rx="4" fill="#b7be98" opacity="0.85"/>
-<text x="356.4975652766367" y="161" font-size="11" fill="#24292f">59415.0</text>
+<rect x="160" y="142" width="190.4" height="28" rx="4" fill="#b7be98" opacity="0.85"/>
+<text x="356.4425818162405" y="161" font-size="11" fill="#24292f">59453.0</text>
 <text x="152" y="195" text-anchor="end" font-size="12" fill="#57606a">LlamaIndex</text>
-<rect x="160" y="176" width="168.1" height="28" rx="4" fill="#c0bf9d" opacity="0.85"/>
-<text x="334.10532432919865" y="195" font-size="11" fill="#24292f">52431.0</text>
+<rect x="160" y="176" width="168.0" height="28" rx="4" fill="#c0bf9e" opacity="0.85"/>
+<text x="333.97181143558805" y="195" font-size="11" fill="#24292f">52438.0</text>
 <text x="152" y="229" text-anchor="end" font-size="12" fill="#57606a">LangGraph</text>
-<rect x="160" y="210" width="137.3" height="28" rx="4" fill="#cbc0a5" opacity="0.85"/>
-<text x="303.28393082580203" y="229" font-size="11" fill="#24292f">42818.0</text>
+<rect x="160" y="210" width="137.4" height="28" rx="4" fill="#cbc0a5" opacity="0.85"/>
+<text x="303.3904222945919" y="229" font-size="11" fill="#24292f">42891.0</text>
 <text x="152" y="263" text-anchor="end" font-size="12" fill="#57606a">Agno</text>
-<rect x="160" y="244" width="136.6" height="28" rx="4" fill="#ccc0a5" opacity="0.85"/>
-<text x="302.56894375087666" y="263" font-size="11" fill="#24292f">42595.0</text>
+<rect x="160" y="244" width="136.5" height="28" rx="4" fill="#ccc0a5" opacity="0.85"/>
+<text x="302.4967166728952" y="263" font-size="11" fill="#24292f">42612.0</text>
 <text x="152" y="297" text-anchor="end" font-size="12" fill="#57606a">DSPy</text>
-<rect x="160" y="278" width="123.6" height="28" rx="4" fill="#d0c1a9" opacity="0.85"/>
-<text x="289.5645151594092" y="297" font-size="11" fill="#24292f">38539.0</text>
+<rect x="160" y="278" width="123.5" height="28" rx="4" fill="#d0c1a9" opacity="0.85"/>
+<text x="289.5075543217127" y="297" font-size="11" fill="#24292f">38557.0</text>
 <text x="152" y="331" text-anchor="end" font-size="12" fill="#57606a">Composio</text>
-<rect x="160" y="312" width="97.7" height="28" rx="4" fill="#dac2af" opacity="0.85"/>
-<text x="263.65825701861615" y="331" font-size="11" fill="#24292f">30459.0</text>
+<rect x="160" y="312" width="97.6" height="28" rx="4" fill="#dac2af" opacity="0.85"/>
+<text x="263.59649778442156" y="331" font-size="11" fill="#24292f">30468.0</text>
 <text x="152" y="365" text-anchor="end" font-size="12" fill="#57606a">OpenAI Agents SDK</text>
 <rect x="160" y="346" width="95.8" height="28" rx="4" fill="#dbc3b0" opacity="0.85"/>
-<text x="261.7986493797968" y="365" font-size="11" fill="#24292f">29879.0</text>
+<text x="261.8026800491164" y="365" font-size="11" fill="#24292f">29908.0</text>
 <text x="152" y="399" text-anchor="end" font-size="12" fill="#57606a">Smolagents</text>
-<rect x="160" y="380" width="95.3" height="28" rx="4" fill="#dbc3b0" opacity="0.85"/>
-<text x="261.2952728292888" y="399" font-size="11" fill="#24292f">29722.0</text>
-<text x="152" y="433" text-anchor="end" font-size="12" fill="#57606a">Semantic Kernel</text>
-<rect x="160" y="414" width="91.8" height="28" rx="4" fill="#dcc3b1" opacity="0.85"/>
-<text x="257.7876680760676" y="433" font-size="11" fill="#24292f">28628.0</text>
-<text x="152" y="467" text-anchor="end" font-size="12" fill="#57606a">Mastra</text>
+<rect x="160" y="380" width="95.2" height="28" rx="4" fill="#dbc3b0" opacity="0.85"/>
+<text x="261.2453152527895" y="399" font-size="11" fill="#24292f">29734.0</text>
+<text x="152" y="433" text-anchor="end" font-size="12" fill="#57606a">Mastra</text>
+<rect x="160" y="414" width="91.7" height="28" rx="4" fill="#dcc3b1" opacity="0.85"/>
+<text x="257.7377609310768" y="433" font-size="11" fill="#24292f">28639.0</text>
+<text x="152" y="467" text-anchor="end" font-size="12" fill="#57606a">Semantic Kernel</text>
 <rect x="160" y="448" width="91.7" height="28" rx="4" fill="#dcc3b1" opacity="0.85"/>
-<text x="257.74278099513054" y="467" font-size="11" fill="#24292f">28614.0</text>
+<text x="257.7249479472532" y="467" font-size="11" fill="#24292f">28635.0</text>
 <text x="152" y="501" text-anchor="end" font-size="12" fill="#57606a">Haystack</text>
-<rect x="160" y="482" width="85.6" height="28" rx="4" fill="#dfc3b2" opacity="0.85"/>
-<text x="251.56760114622367" y="501" font-size="11" fill="#24292f">26688.0</text>
+<rect x="160" y="482" width="85.5" height="28" rx="4" fill="#dfc3b2" opacity="0.85"/>
+<text x="251.51065079280337" y="501" font-size="11" fill="#24292f">26695.0</text>
 <text x="152" y="535" text-anchor="end" font-size="12" fill="#57606a">Letta</text>
-<rect x="160" y="516" width="80.4" height="28" rx="4" fill="#e1c3b3" opacity="0.85"/>
-<text x="246.36390597759652" y="535" font-size="11" fill="#24292f">25065.0</text>
+<rect x="160" y="516" width="80.3" height="28" rx="4" fill="#e1c3b3" opacity="0.85"/>
+<text x="246.32459559019807" y="535" font-size="11" fill="#24292f">25076.0</text>
 </svg>
