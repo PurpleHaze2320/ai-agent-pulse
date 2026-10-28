@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/PurpleHaze2320/ai-agent-pulse?style=social)](https://github.com/PurpleHaze2320/ai-agent-pulse/stargazers)
 
 > Automated daily tracking of the AI agent framework ecosystem's health, momentum, and trends.
-> Last updated: **2026-10-27 11:52 UTC** | Tracking **19** frameworks
+> Last updated: **2026-10-28 12:28 UTC** | Tracking **19** frameworks
 
 ## How It Works
 
@@ -19,71 +19,71 @@ a living dashboard that shows which frameworks are gaining momentum and which ar
 
 | Rank | Framework | Pulse | Stars | ⭐ 7d | Commits (4w) | Last Release | Category |
 |------|-----------|-------|-------|-------|--------------|--------------|----------|
-| 1 | [BrowserUse](https://github.com/browser-use/browser-use) | 🟢 **90.0** | 119.3k | 🚀 +656 | 116 | today | `web-agent` |
-| 2 | [LangGraph](https://github.com/langchain-ai/langgraph) | 🟢 **85.1** | 44.0k | 🚀 +412 | 112 | today | `orchestration` |
-| 3 | [CrewAI](https://github.com/crewAIInc/crewAI) | 🟢 **79.0** | 60.2k | 🚀 +257 | 138 | 3 days ago | `multi-agent` |
-| 4 | [Mastra](https://github.com/mastra-ai/mastra) | 🟢 **76.3** | 29.1k | 🚀 +171 | 2068 | 5 days ago | `typescript` |
-| 5 | [Google ADK](https://github.com/google/adk-python) | 🟢 **75.2** | 22.0k | 🚀 +101 | 430 | 3 days ago | `orchestration` |
-| 6 | [PydanticAI](https://github.com/pydantic/pydantic-ai) | 🟢 **74.5** | 20.9k | 🚀 +153 | 961 | today | `structured` |
-| 7 | [Claude Agent SDK](https://github.com/anthropics/claude-code) | 🟢 **74.1** | 153.5k | 🚀 +654 | 42 | today | `orchestration` |
-| 8 | [Haystack](https://github.com/deepset-ai/haystack) | 🟢 **71.6** | 26.9k | 📈 +69 | 217 | 5 days ago | `pipeline` |
-| 9 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 🟢 **71.1** | 30.3k | 🚀 +158 | 73 | 12 days ago | `orchestration` |
-| 10 | [Agno](https://github.com/agno-agi/agno) | 🟢 **70.1** | 42.9k | 📈 +84 | 151 | 3 days ago | `multi-agent` |
-| 11 | [AG2](https://github.com/ag2ai/ag2) | 🟡 **69.6** | 5.0k | ↗️ +19 | 99 | 5 days ago | `multi-agent` |
-| 12 | [Composio](https://github.com/ComposioHQ/composio) | 🟡 **68.5** | 30.8k | 🚀 +128 | 307 | today | `tooling` |
-| 13 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | 🟡 **60.7** | 28.7k | 📈 +27 | 54 | 20 days ago | `enterprise` |
-| 14 | [DSPy](https://github.com/stanfordnlp/dspy) | 🟡 **60.6** | 38.8k | 🚀 +114 | 61 | 14 days ago | `optimization` |
-| 15 | [LlamaIndex](https://github.com/run-llama/llama_index) | 🟡 **54.8** | 52.7k | 🚀 +106 | 9 | 1 mo ago | `data-agent` |
-| 16 | [Letta](https://github.com/letta-ai/letta) | 🟠 **34.8** | 25.3k | 📈 +64 | 1 | 5 mo ago | `memory` |
-| 17 | [Smolagents](https://github.com/huggingface/smolagents) | 🟠 **34.3** | 30.1k | 🚀 +149 | 1 | 5 mo ago | `lightweight` |
-| 18 | [AutoGen](https://github.com/microsoft/autogen) | 🟠 **32.0** | 61.6k | 📈 +89 | 1 | 1y ago | `multi-agent` |
-| 19 | [Swarm](https://github.com/openai/swarm) | 🔴 **9.2** | 22.1k | ↗️ +17 | 0 | — | `experimental` |
+| 1 | [BrowserUse](https://github.com/browser-use/browser-use) | 🟢 **90.0** | 119.4k | 🚀 +621 | 116 | 1 day ago | `web-agent` |
+| 2 | [LangGraph](https://github.com/langchain-ai/langgraph) | 🟢 **84.8** | 44.0k | 🚀 +405 | 116 | 1 day ago | `orchestration` |
+| 3 | [CrewAI](https://github.com/crewAIInc/crewAI) | 🟢 **79.3** | 60.2k | 🚀 +261 | 170 | today | `multi-agent` |
+| 4 | [Mastra](https://github.com/mastra-ai/mastra) | 🟢 **76.2** | 29.1k | 🚀 +172 | 2163 | 6 days ago | `typescript` |
+| 5 | [Claude Agent SDK](https://github.com/anthropics/claude-code) | 🟢 **74.9** | 153.7k | 🚀 +1013 | 46 | today | `orchestration` |
+| 6 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 🟢 **73.6** | 30.4k | 🚀 +157 | 86 | 13 days ago | `orchestration` |
+| 7 | [PydanticAI](https://github.com/pydantic/pydantic-ai) | 🟢 **73.1** | 20.9k | 🚀 +157 | 1063 | 22 days ago | `structured` |
+| 8 | [Haystack](https://github.com/deepset-ai/haystack) | 🟢 **71.4** | 26.9k | 📈 +65 | 221 | 6 days ago | `pipeline` |
+| 9 | [Agno](https://github.com/agno-agi/agno) | 🟢 **70.2** | 42.9k | 📈 +82 | 159 | today | `multi-agent` |
+| 10 | [AG2](https://github.com/ag2ai/ag2) | 🟢 **70.1** | 5.0k | ↗️ +17 | 104 | today | `multi-agent` |
+| 11 | [Composio](https://github.com/ComposioHQ/composio) | 🟡 **68.4** | 30.8k | 🚀 +122 | 324 | today | `tooling` |
+| 12 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | 🟡 **63.3** | 28.7k | 📈 +29 | 66 | 21 days ago | `enterprise` |
+| 13 | [DSPy](https://github.com/stanfordnlp/dspy) | 🟡 **61.5** | 38.8k | 🚀 +116 | 66 | 15 days ago | `optimization` |
+| 14 | [LlamaIndex](https://github.com/run-llama/llama_index) | 🟡 **55.0** | 52.7k | 🚀 +111 | 9 | 1 mo ago | `data-agent` |
+| 15 | [Google ADK](https://github.com/google/adk-python) | 🟡 **54.8** | 22.0k | 📈 +91 | 0 | 4 days ago | `orchestration` |
+| 16 | [Smolagents](https://github.com/huggingface/smolagents) | 🟠 **34.7** | 30.1k | 🚀 +160 | 1 | 5 mo ago | `lightweight` |
+| 17 | [Letta](https://github.com/letta-ai/letta) | 🟠 **34.3** | 25.3k | 📈 +57 | 1 | 5 mo ago | `memory` |
+| 18 | [AutoGen](https://github.com/microsoft/autogen) | 🟠 **32.3** | 61.6k | 📈 +98 | 1 | 1y ago | `multi-agent` |
+| 19 | [Swarm](https://github.com/openai/swarm) | 🔴 **9.4** | 22.1k | 📈 +21 | 0 | — | `experimental` |
 
 ## 📂 By Category
 
-- `data-agent`: **LlamaIndex** (54.8)
-- `enterprise`: **Semantic Kernel** (60.7)
-- `experimental`: **Swarm** (9.2)
-- `lightweight`: **Smolagents** (34.3)
-- `memory`: **Letta** (34.8)
-- `multi-agent`: **CrewAI** (79.0), **Agno** (70.1), **AG2** (69.6), **AutoGen** (32.0)
-- `optimization`: **DSPy** (60.6)
-- `orchestration`: **LangGraph** (85.1), **Google ADK** (75.2), **Claude Agent SDK** (74.1), **OpenAI Agents SDK** (71.1)
-- `pipeline`: **Haystack** (71.6)
-- `structured`: **PydanticAI** (74.5)
-- `tooling`: **Composio** (68.5)
-- `typescript`: **Mastra** (76.3)
+- `data-agent`: **LlamaIndex** (55.0)
+- `enterprise`: **Semantic Kernel** (63.3)
+- `experimental`: **Swarm** (9.4)
+- `lightweight`: **Smolagents** (34.7)
+- `memory`: **Letta** (34.3)
+- `multi-agent`: **CrewAI** (79.3), **Agno** (70.2), **AG2** (70.1), **AutoGen** (32.3)
+- `optimization`: **DSPy** (61.5)
+- `orchestration`: **LangGraph** (84.8), **Claude Agent SDK** (74.9), **OpenAI Agents SDK** (73.6), **Google ADK** (54.8)
+- `pipeline`: **Haystack** (71.4)
+- `structured`: **PydanticAI** (73.1)
+- `tooling`: **Composio** (68.4)
+- `typescript`: **Mastra** (76.2)
 - `web-agent`: **BrowserUse** (90.0)
 
 ## 🔍 Top 5 — Score Breakdown
 
 | Framework | Star Velocity | Release Freshness | Issue Health | Commit Activity | Community | Fork Ratio |
 |-----------|:---:|:---:|:---:|:---:|:---:|:---:|
-| **BrowserUse** | 100 | 100.0 | 89.1 | 100 | 72.2 | 44.5 |
-| **LangGraph** | 82.2 | 100.0 | 79.8 | 100 | 57.2 | 68.7 |
-| **CrewAI** | 52.2 | 99.0 | 86.7 | 100 | 72.4 | 59.2 |
-| **Mastra** | 35.2 | 98.3 | 95.0 | 100 | 93.6 | 41.9 |
-| **Google ADK** | 19.6 | 99.0 | 94.4 | 100 | 85.6 | 77.3 |
+| **BrowserUse** | 100 | 99.7 | 89.1 | 100 | 72.2 | 44.5 |
+| **LangGraph** | 81.2 | 99.7 | 79.7 | 100 | 57.4 | 68.7 |
+| **CrewAI** | 52.6 | 100.0 | 86.3 | 100 | 72.6 | 59.3 |
+| **Mastra** | 35.5 | 98.0 | 94.8 | 100 | 93.6 | 41.9 |
+| **Claude Agent SDK** | 100 | 100.0 | 85.2 | 46.0 | 11.4 | 67.8 |
 
 ## 💡 Key Insights
 
 - **Hottest framework**: BrowserUse with a Pulse Score of 90.0
-- **Fastest growing**: BrowserUse gained +656 stars this week
-- **Most active development**: Mastra with 2068 commits in the last 4 weeks
+- **Fastest growing**: Claude Agent SDK gained +1013 stars this week
+- **Most active development**: Mastra with 2163 commits in the last 4 weeks
 - **Stale releases**: AutoGen, Swarm haven't released in a while
 
 ## 📦 Recent Releases
 
-- **Composio** [`@composio/cli@0.5.1-beta.502`](https://github.com/ComposioHQ/composio/releases/tag/@composio/cli@0.5.1-beta.502) — today *(pre-release)*
-- **PydanticAI** [`v2.62.0`](https://github.com/pydantic/pydantic-ai/releases/tag/v2.62.0) — today
-- **BrowserUse** [`0.13.14`](https://github.com/browser-use/browser-use/releases/tag/0.13.14) — today
-- **Claude Agent SDK** [`v2.1.311`](https://github.com/anthropics/claude-code/releases/tag/v2.1.311) — today
-- **LangGraph** [`1.2.18`](https://github.com/langchain-ai/langgraph/releases/tag/1.2.18) — today
-- **CrewAI** [`1.15.30`](https://github.com/crewAIInc/crewAI/releases/tag/1.15.30) — 3 days ago
-- **Google ADK** [`v2.13.0`](https://github.com/google/adk-python/releases/tag/v2.13.0) — 3 days ago
-- **Agno** [`v3.1.10`](https://github.com/agno-agi/agno/releases/tag/v3.1.10) — 3 days ago
-- **AG2** [`v1.2.1`](https://github.com/ag2ai/ag2/releases/tag/v1.2.1) — 5 days ago
-- **Haystack** [`v3.4.1`](https://github.com/deepset-ai/haystack/releases/tag/v3.4.1) — 5 days ago
+- **Composio** [`@composio/cli@0.5.1-beta.512`](https://github.com/ComposioHQ/composio/releases/tag/@composio/cli@0.5.1-beta.512) — today *(pre-release)*
+- **CrewAI** [`1.15.32`](https://github.com/crewAIInc/crewAI/releases/tag/1.15.32) — today
+- **AG2** [`v1.2.2`](https://github.com/ag2ai/ag2/releases/tag/v1.2.2) — today
+- **Claude Agent SDK** [`v2.1.312`](https://github.com/anthropics/claude-code/releases/tag/v2.1.312) — today
+- **Agno** [`v3.1.11`](https://github.com/agno-agi/agno/releases/tag/v3.1.11) — today
+- **BrowserUse** [`0.13.14`](https://github.com/browser-use/browser-use/releases/tag/0.13.14) — 1 day ago
+- **LangGraph** [`1.2.18`](https://github.com/langchain-ai/langgraph/releases/tag/1.2.18) — 1 day ago
+- **Google ADK** [`v2.13.0`](https://github.com/google/adk-python/releases/tag/v2.13.0) — 4 days ago
+- **Haystack** [`v3.4.1`](https://github.com/deepset-ai/haystack/releases/tag/v3.4.1) — 6 days ago
+- **Mastra** [`@mastra/core@1.79.0`](https://github.com/mastra-ai/mastra/releases/tag/@mastra/core@1.79.0) — 6 days ago
 
 ## 🚀 Running Locally
 
@@ -131,4 +131,4 @@ The Pulse Score (0–100) is a weighted composite of six signals:
 
 ---
 
-*Powered by GitHub Actions • Data refreshed daily • Last run: 2026-10-27 11:52 UTC*
+*Powered by GitHub Actions • Data refreshed daily • Last run: 2026-10-28 12:28 UTC*
